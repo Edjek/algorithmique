@@ -1,9 +1,9 @@
 /* --------------------------- Les Commentaires --------------------------- */
 
 // Un commentaire sur une ligne en Javascript
-/* 
+/*
     Un commentaire multiligne
-    en Javascript 
+    en Javascript
 */
 
 /* --------------------------- Affichage --------------------------- */
@@ -53,7 +53,7 @@ let resultat = number * decimal;
 console.log(resultat);
 
 // Comment utiliser les guillemets dans une chaine de caractère
-let message = "J'apprend l'algorithmie";
+let message = "J'apprend l'algorithmique";
 console.log(message);
 
 let unNouveauMessage = "J'apprend encore l'algorithmie";
@@ -103,7 +103,7 @@ if (condition >= 18 || permis == true) {
 
 // Récupérer une valeur de l'utilisateur
 // let age = prompt('quel ages as-tu?');
-let age = 12
+let age = 12;
 if (age >= 18) {
     console.log('tu es majeur!');
 } else {
@@ -129,7 +129,7 @@ console.log('Enfin fini de tourner en rond!');
 
 // Boucle Tant Que (while)
 // let majeur = prompt('quel ages as-tu?');
-let majeur = 18
+let majeur = 18;
 while (majeur < 18) {
     // majeur = prompt('Tu es mineur, tu ne peux pas rentrer! (Mens sur ton age)');
 }
