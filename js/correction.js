@@ -36,7 +36,7 @@ console.log('la moyenne est de ' + m);
 // Ecrire un algorithme qui demande à l'utilisateur son age. Il indique ensuite à l'utilisateur quel film il peut aller voir.
 // "Action Man" si moins de 13 ans
 // "Matrix" si il a entre 13 et 18 ans
-// "Evil Dead" si plus de 18ans
+// "Evil Dead" si plus de 18 ans
 let agree = prompt('Quel est votre age ?');
 if (agree < 13) {
     console.log('Action Man');
@@ -138,7 +138,11 @@ while (popMarrakech > popAgadir) {
     popAgadir += (popAgadir * 8) / 100;
 }
 
-console.log('Dans ' + years + ' ans la population de Agadir dépassera celle de Marrakech');
+console.log(
+    'Dans ' +
+        years +
+        ' ans la population de Agadir dépassera celle de Marrakech'
+);
 
 // Ecrire un algorithme qui calcule la somme des valeurs d'un tableau (boucle for()).
 let notes = [10, 15, 20, 15, 14, 8];

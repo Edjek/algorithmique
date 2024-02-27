@@ -7,7 +7,7 @@
 // Algorithme de bienvenue qui affiche le nom et l'âge de l'utilisateur
 
 // Ecrire un algorithme qui demande à l'utilisateur son prénom et son nom et qui affiche ensuite la phrase
-// "Bonjour prénom votre nom est nom"
+// "Bonjour [prénom] votre nom est [nom]"
 
 // Quelle sera la valeur de i à la fin de cet algorithme ?
 let g = 12;
@@ -41,18 +41,17 @@ let i = g * h;
 // "Evil Dead" si plus de 18ans
 
 //------------------
-//-- 4 -- BOUCLES
+//-- 3 -- BOUCLES
 //------------------
+// Ecrire un algorithme qui demande à l'utilisateur un nombre compris entre 0 et 10 tant qu'il n'a pas la bonne réponse on lui repose la question.
+
+// Ecrire un algorithme qui fait deviner un chiffre à l'utilisateur en lui indiquant si il est au dessus ou au dessous de la bonne valeur
+
+// Ecrire un algorithme qui demande à l'utilisateur un nombre compris entre 0 et 10 jusqu'à ce que la réponse soit bonne.
+
+// Ecrire un algorithme qui fait deviner un chiffre à l'utilisateur en lui indiquant si il est au dessus ou au dessous de la bonne valeur
 
 // Écrire un algorithme  qui permet d'afficher "Bonjour" 10 fois. utilisant la boucle for
-
-// Ecrire un algorithme qui demande à l'utilisateur un nombre compris entre 0 et 10 jusqu'à ce que la réponse soit bonne.
-
-// Ecrire un algorithme qui fait deviner un chiffre à l'utilisateur en lui indiquant si il est au dessus ou au dessous de la bonne valeur
-
-// Ecrire un algorithme qui demande à l'utilisateur un nombre compris entre 0 et 10 jusqu'à ce que la réponse soit bonne.
-
-// Ecrire un algorithme qui fait deviner un chiffre à l'utilisateur en lui indiquant si il est au dessus ou au dessous de la bonne valeur
 
 //------------------
 //-- 4 -- FONCTIONS

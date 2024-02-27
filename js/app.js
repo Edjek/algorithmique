@@ -110,7 +110,7 @@ if (age >= 18) {
     console.log('tu es mineur');
 }
 
-/* --------------------------- Les Boucles ---------------y------------ */
+/* --------------------------- Les Boucles --------------------------- */
 
 // Boucle à itérations définies (for)
 for (let i = 0; i < 5; i++) {
