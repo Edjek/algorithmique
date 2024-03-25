@@ -3,7 +3,7 @@
 > Durée : 2 jours (14 heures au total)
 
 <center>
-<img src="./support/contexte/logo.png" alt="algorithmique" width="150">
+<img src="./support/context/img/logo.png" alt="algorithmique" width="150">
 </center>
 
 <br>
